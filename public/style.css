@@ -1,0 +1,184 @@
+.top-container
+{
+  background-color: #b3d9ff;
+  /* text-align: center; */
+  font-family: 'Sacramento',cursive;
+  line-height: 2;
+}
+.top-saree{
+  height: 600px;
+  width:400px;
+  text-align: left;
+  /* background-color: #b3d9ff; */
+  padding: 35px;
+  transform: rotate(15deg);
+
+}
+.bg{
+  background-color: pink;
+}
+.top-h1{
+  /* padding: 3rem;
+  line-height: 4rem; */
+  font-family: "Montserrat-Black";
+font-size: 3rem;
+line-height: 1.5;
+color: #4d0099;
+font-weight: bold;
+margin-top: 40px;
+margin-left: 60px;
+}
+.Download-btn
+{
+  margin: 5% 3% 10% 8%;
+}
+#pricing
+{
+  padding: 100px;
+  text-align: center;
+}
+.pricing-column
+{
+  padding: 3% 2%;
+}
+h2{
+  font-family: "Montserrat-bold";
+  font-size: 3rem;
+  line-height: 1.5;
+  text-align:center;
+}
+#footer
+{
+  padding: 7% 15%;
+  text-align: center;
+background-color: #cc99ff;
+}
+.social-icon
+{
+  margin: 20px 10px;
+}
+h3
+{
+  font-family: "Montserrat-bold";
+  font-weight: bold;
+  text-align: center;
+}
+.myimg
+{
+  padding: 15px;
+  height: 300px;
+}
+#cta{
+  text-align: center;
+}
+.mybtn {
+	box-shadow: 0px 0px 0px 2px #9fb4f2;
+	background:linear-gradient(to bottom, #7892c2 5%, #476e9e 100%);
+	background-color:#7892c2;
+	border-radius:18px;
+	border:3px solid #4e6096;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:22px;
+	padding:12px 20px;
+	text-decoration:none;
+	text-shadow:-1px 5px 0px #283966;
+  margin-bottom: 40px;
+}
+.mybtn:hover {
+	background:linear-gradient(to bottom, #476e9e 5%, #7892c2 100%);
+	background-color:#476e9e;
+}
+.mybtn:active {
+	position:relative;
+	top:1px;
+}
+.bottom-container{
+  text-align: center;
+}
+.h2-contact
+{
+  color:#66BFBF;
+}
+.h2-contact:hover{
+
+  color:darkblue;
+}
+.lastp
+{
+  font-size: 13px;
+  color:grey;
+}
+.last
+{
+  background-color: #66BFBF;
+  height: 200px;
+  padding: 50px 0px 20px;
+  text-align: center;
+
+}
+.a-contact{
+  margin:10px 20px;
+  padding-bottom: 100px;
+  text-decoration: none;
+}
+.a-contact:hover
+{
+  color:#EAF6F6;
+}
+.rj1{
+  text-align: center;
+}
+.btn-margin{
+  margin: 10px;
+  padding: 10px;
+}
+.home-head{
+  background-color: pink;
+  color:purple;
+}
+.rjsaree-head{
+  background-color: red;
+  color: yellow;
+}
+.gjsaree-head{
+  background-color: #660080;
+  color:#ffb3ff;
+}
+.bgsaree-head{
+  background-color: #00995c;
+  color: #80ffff;
+}
+.msaree-head{
+  background-color: #e67300;
+  color:#ffe6cc ;
+}
+.rj{
+  color: #00e6e6;
+}
+.sp{
+  color:#e67300;
+}
+.rs{
+color:red;
+}
+.detail{
+color:#00995c;
+}
+.skill{
+  color:#e67300;
+}
+.h31{
+  color: #660080;
+}
+.p2{
+  color:#00995c;
+
+}
+.introcolor{
+  color:grey;
+
+}
+}
